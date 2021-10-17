@@ -1,0 +1,2 @@
+# Demotypescript
+my typescript demo 
